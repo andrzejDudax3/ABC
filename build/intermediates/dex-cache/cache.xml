@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/maciej/AndroidStudioProjects/sztuczka/AndroidStudioProjects/openCVtest/openCVLibrary320/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3cd47c11a880cad73a162fb4fb0825188a2bbe92">
+        <dex dex="/home/maciej/AndroidStudioProjects/sztuczka/AndroidStudioProjects/openCVtest/app/build/intermediates/pre-dexed/debug/classes_9cd81ca9ab9696e8843384e3165df4e72c946882.jar" />
+    </item>
+
+</items>
